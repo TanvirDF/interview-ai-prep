@@ -8,7 +8,6 @@ export default function RootLayout({
 }>) {
     return (
         <div>
-        <span> landing page layout </span>
         {children}
     </div>
   );
