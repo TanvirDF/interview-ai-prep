@@ -1,1 +1,1 @@
-A next.js project implementing the new concepts of next.js 14.
+This project is a Next.js application leveraging the latest features of Next.js 14, including the App Router and server components. It is an AI-integrated web application designed to assist applicants in preparing for job interviews. 
